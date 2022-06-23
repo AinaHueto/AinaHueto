@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AinaHueto
-- 👀 I’m interested in Smartsystems and Wearables
+- 👀 I’m interested in Smart Sistems and Wearables
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on projects related to Smart textiles and products.
 - 📫 aina8hc@gmail.com
